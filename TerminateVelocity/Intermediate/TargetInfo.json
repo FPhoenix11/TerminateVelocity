@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TerminateVelocity",
+			"Path": "C:\\Slugwork\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocity.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TerminateVelocityEditor",
+			"Path": "C:\\Slugwork\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocityEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
