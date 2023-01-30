@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TerminateVelocity.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\TerminateVelocityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\MyClass.cpp.obj"
+"C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\TerminateVelocity.cpp.obj"
+"C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\Default.rc2.res"
+/OUT:"C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\UnrealEditor-TerminateVelocity.lib"

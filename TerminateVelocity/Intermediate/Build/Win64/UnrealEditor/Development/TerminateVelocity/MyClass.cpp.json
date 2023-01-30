@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\slugwork\\terminatevelocity\\terminatevelocity\\source\\terminatevelocity\\myclass.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\slugwork\\terminatevelocity\\terminatevelocity\\intermediate\\build\\win64\\terminatevelocityeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\slugwork\\terminatevelocity\\terminatevelocity\\intermediate\\build\\win64\\unrealeditor\\development\\terminatevelocity\\definitions.terminatevelocity.h",
+            "c:\\slugwork\\terminatevelocity\\terminatevelocity\\source\\terminatevelocity\\myclass.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
