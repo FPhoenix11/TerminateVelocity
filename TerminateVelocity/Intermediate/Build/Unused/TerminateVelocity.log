@@ -1,55 +1,51 @@
-﻿  Using bundled DotNet SDK
-  Log file: C:\Users\U1962413\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (C:\Slugwork\TerminateVelocity).
+﻿  Cleaning TerminateVelocityEditor and UnrealHeaderTool binaries...
+  Using bundled DotNet SDK
+  Log file: C:\Users\adam1\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\adam1\Documents\Uni UE\TerminateVelocity).
   Creating makefile for TerminateVelocityEditor (no existing makefile)
   Parsing headers for TerminateVelocityEditor
-    Running UnrealHeaderTool "C:\Slugwork\TerminateVelocity\TerminateVelocity\TerminateVelocity.uproject" "C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\TerminateVelocityEditor\Development\TerminateVelocityEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\U1962413\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for TerminateVelocityEditor in 1.2715982 seconds
+    Running UnrealHeaderTool "C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\TerminateVelocity.uproject" "C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\TerminateVelocityEditor\Development\TerminateVelocityEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\adam1\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for TerminateVelocityEditor in 1.7789687 seconds
   Building TerminateVelocityEditor...
-  Using Visual Studio 2022 14.29.30143 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  [Adaptive Build] Excluded from TerminateVelocity unity file: MyClass.cpp, TerminateVelocity.cpp
-  Distributing 19 actions to XGE
-  --------------------Build System Warning---------------------------------------
-  License is invalid:
-      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
-      This build will run in standalone mode.
-  
-  -------------------------------------------------------------------------------
-  
-  Build ID: {356EAE61-5943-4C47-9B9E-0EF2ABEB3CDC}
-  
-  --------------------Project: Default-------------------------------------------
-  [1/19] SharedPCH.Engine.ShadowErrors.cpp (0:30.06 at +0:00)
-  [2/19] Default.rc2 (0:00.09 at +0:30)
-  [3/19] Module.AdvancedSessions.cpp (0:04.89 at +0:30)
-  [4/19] Module.AdvancedSessions.gen.2_of_3.cpp (0:04.89 at +0:35)
-  [5/19] Module.AdvancedSessions.gen.3_of_3.cpp (0:03.64 at +0:39)
-  [6/19] Module.AdvancedSessions.gen.1_of_3.cpp (0:04.17 at +0:43)
-  [7/19] UnrealEditor-AdvancedSessions.lib (0:00.09 at +0:47)
-     Creating library C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib and object C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.exp
-  [8/19] UnrealEditor-AdvancedSessions.dll (0:00.71 at +0:47)
-     Creating library C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.suppressed.lib and object C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.suppressed.exp
-  [9/19] Default.rc2 (0:00.09 at +0:48)
-  [10/19] TerminateVelocity.cpp (0:00.51 at +0:48)
-  [11/19] Module.AdvancedSteamSessions.gen.cpp (0:04.67 at +0:49)
-  [12/19] MyClass.cpp (0:00.50 at +0:53)
-  [13/19] UnrealEditor-TerminateVelocity.dll (0:00.68 at +0:54)
-     Creating library C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\UnrealEditor-TerminateVelocity.suppressed.lib and object C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\UnrealEditor-TerminateVelocity.suppressed.exp
-  [14/19] UnrealEditor-TerminateVelocity.lib (0:00.09 at +0:55)
-     Creating library C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\UnrealEditor-TerminateVelocity.lib and object C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\UnrealEditor-TerminateVelocity.exp
-  [15/19] Default.rc2 (0:00.09 at +0:55)
-  [16/19] Module.AdvancedSteamSessions.cpp (0:04.09 at +0:55)
-  [17/19] UnrealEditor-AdvancedSteamSessions.dll (0:00.71 at +0:59)
-     Creating library C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.suppressed.lib and object C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.suppressed.exp
-  [18/19] UnrealEditor-AdvancedSteamSessions.lib (0:00.10 at +1:00)
-     Creating library C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib and object C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.exp
-  [19/19] TerminateVelocityEditor.target (0:00.54 at +1:00)
-  ---------------------- Done ----------------------
-  
-      Rebuild All: 1 succeeded, 0 failed, 0 skipped
-  
-  1 build system warning(s):
-     - License is invalid
-  
-  Total time in XGE executor: 61.01 seconds
-  Total execution time: 64.71 seconds
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 4.11 GB available: limiting max parallel actions to 2
+  Building 27 actions with 2 processes...
+  [1/27] Resource Default.rc2
+  [2/27] Resource Default.rc2
+  [3/27] Resource Default.rc2
+  [4/27] Resource Default.rc2
+  [5/27] Compile SharedPCH.Engine.ShadowErrors.cpp
+  [6/27] Compile Module.AdvancedSessions.gen.2_of_3.cpp
+  [7/27] Compile Module.AdvancedSessions.gen.3_of_3.cpp
+  [8/27] Compile Module.OnlineSubsystemSteam.cpp
+  [9/27] Compile Module.AdvancedSessions.cpp
+  [10/27] Compile TerminateVelocity.init.gen.cpp
+  [11/27] Compile Module.AdvancedSessions.gen.1_of_3.cpp
+  [12/27] Compile MyCharacter.gen.cpp
+  [13/27] Compile TerminateVelocity.cpp
+  [14/27] Compile MyClass.cpp
+  [15/27] Compile MyCharacter.cpp
+  [16/27] Compile Module.AdvancedSteamSessions.gen.cpp
+  [17/27] Link UnrealEditor-AdvancedSessions.dll
+     Creating library C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.suppressed.lib and object C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.suppressed.exp
+  [18/27] Link UnrealEditor-TerminateVelocity.lib
+     Creating library C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\UnrealEditor-TerminateVelocity.lib and object C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\UnrealEditor-TerminateVelocity.exp
+  [19/27] Compile Module.OnlineSubsystemSteam.gen.cpp
+  [20/27] Compile Module.AdvancedSteamSessions.cpp
+  [21/27] Link UnrealEditor-AdvancedSteamSessions.lib
+     Creating library C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib and object C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.exp
+  [22/27] Link UnrealEditor-OnlineSubsystemSteam.lib
+     Creating library C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\UnrealEditor-OnlineSubsystemSteam.lib and object C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\UnrealEditor-OnlineSubsystemSteam.exp
+  [23/27] Link UnrealEditor-AdvancedSessions.lib
+     Creating library C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib and object C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.exp
+  [24/27] Link UnrealEditor-OnlineSubsystemSteam.dll
+     Creating library C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\UnrealEditor-OnlineSubsystemSteam.suppressed.lib and object C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\UnrealEditor-OnlineSubsystemSteam.suppressed.exp
+  [25/27] Link UnrealEditor-AdvancedSteamSessions.dll
+     Creating library C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.suppressed.lib and object C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.suppressed.exp
+  [26/27] Link UnrealEditor-TerminateVelocity.dll
+     Creating library C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\UnrealEditor-TerminateVelocity.suppressed.lib and object C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\UnrealEditor\Development\TerminateVelocity\UnrealEditor-TerminateVelocity.suppressed.exp
+  [27/27] WriteMetadata TerminateVelocityEditor.target
+  Total time in Parallel executor: 79.96 seconds
+  Total execution time: 84.00 seconds

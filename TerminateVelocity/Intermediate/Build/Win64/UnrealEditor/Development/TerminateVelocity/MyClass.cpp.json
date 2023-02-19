@@ -1,12 +1,12 @@
 {
-    "Version": "1.1",
+    "Version": "1.2",
     "Data": {
-        "Source": "c:\\slugwork\\terminatevelocity\\terminatevelocity\\source\\terminatevelocity\\myclass.cpp",
+        "Source": "c:\\users\\adam1\\documents\\uni ue\\terminatevelocity\\terminatevelocity\\source\\terminatevelocity\\myclass.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\slugwork\\terminatevelocity\\terminatevelocity\\intermediate\\build\\win64\\terminatevelocityeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\adam1\\documents\\uni ue\\terminatevelocity\\terminatevelocity\\intermediate\\build\\win64\\terminatevelocityeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\slugwork\\terminatevelocity\\terminatevelocity\\intermediate\\build\\win64\\unrealeditor\\development\\terminatevelocity\\definitions.terminatevelocity.h",
-            "c:\\slugwork\\terminatevelocity\\terminatevelocity\\source\\terminatevelocity\\myclass.h"
+            "c:\\users\\adam1\\documents\\uni ue\\terminatevelocity\\terminatevelocity\\intermediate\\build\\win64\\unrealeditor\\development\\terminatevelocity\\definitions.terminatevelocity.h",
+            "c:\\users\\adam1\\documents\\uni ue\\terminatevelocity\\terminatevelocity\\source\\terminatevelocity\\myclass.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

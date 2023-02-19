@@ -1,6 +1,6 @@
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.gen.2_of_3.cpp
+"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.gen.2_of_3.cpp"
 /I .
-/I C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Private
+/I "C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -263,9 +263,9 @@ C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Interme
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController
 /I Developer\AnimationDataController\Public
-/I C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSessions
-/I C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source
-/I C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes
+/I "C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSessions"
+/I "C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source"
+/I "C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes"
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -280,18 +280,18 @@ C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Interme
 /I ThirdParty\PhysX3\PhysX_3.4\Include\common
 /I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
-/I "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\TerminateVelocityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Yu"C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\TerminateVelocityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Slugwork\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\TerminateVelocityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.gen.2_of_3.cpp.obj"
-/sourceDependencies C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.gen.2_of_3.cpp.json
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\TerminateVelocityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Yu"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\TerminateVelocityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\TerminateVelocityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.gen.2_of_3.cpp.obj"
+/sourceDependencies "C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.gen.2_of_3.cpp.json"
 /Zc:inline
 /nologo
 /Oi

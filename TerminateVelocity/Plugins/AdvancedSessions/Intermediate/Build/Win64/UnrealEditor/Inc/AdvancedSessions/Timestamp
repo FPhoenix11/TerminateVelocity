@@ -1,23 +1,23 @@
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AutoLoginUserCallbackProxy.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\StartSessionCallbackProxyAdvanced.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
-C:\Slugwork\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AutoLoginUserCallbackProxy.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\StartSessionCallbackProxyAdvanced.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
+C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h

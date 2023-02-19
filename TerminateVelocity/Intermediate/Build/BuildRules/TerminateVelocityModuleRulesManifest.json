@@ -1,10 +1,11 @@
 {
 	"SourceFiles": [
-		"C:\\Slugwork\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocity\\TerminateVelocity.Build.cs",
-		"C:\\Slugwork\\TerminateVelocity\\TerminateVelocity\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
-		"C:\\Slugwork\\TerminateVelocity\\TerminateVelocity\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
-		"C:\\Slugwork\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocity.Target.cs",
-		"C:\\Slugwork\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocityEditor.Target.cs"
+		"C:\\Users\\adam1\\Documents\\University\\Year 4\\Group Project\\Project Files\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocity\\TerminateVelocity.Build.cs",
+		"C:\\Users\\adam1\\Documents\\University\\Year 4\\Group Project\\Project Files\\TerminateVelocity\\TerminateVelocity\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\adam1\\Documents\\University\\Year 4\\Group Project\\Project Files\\TerminateVelocity\\TerminateVelocity\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\adam1\\Documents\\University\\Year 4\\Group Project\\Project Files\\TerminateVelocity\\TerminateVelocity\\Plugins\\Online\\OnlineSubsystemSteam\\Source\\OnlineSubsystemSteam.Build.cs",
+		"C:\\Users\\adam1\\Documents\\University\\Year 4\\Group Project\\Project Files\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocity.Target.cs",
+		"C:\\Users\\adam1\\Documents\\University\\Year 4\\Group Project\\Project Files\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocityEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }

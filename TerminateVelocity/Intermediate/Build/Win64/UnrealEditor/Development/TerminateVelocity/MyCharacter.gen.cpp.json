@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\adam1\\documents\\uni ue\\terminatevelocity\\terminatevelocity\\intermediate\\build\\win64\\unrealeditor\\inc\\terminatevelocity\\mycharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\adam1\\documents\\uni ue\\terminatevelocity\\terminatevelocity\\intermediate\\build\\win64\\terminatevelocityeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\adam1\\documents\\uni ue\\terminatevelocity\\terminatevelocity\\intermediate\\build\\win64\\unrealeditor\\development\\terminatevelocity\\definitions.terminatevelocity.h",
+            "c:\\users\\adam1\\documents\\uni ue\\terminatevelocity\\terminatevelocity\\source\\terminatevelocity\\mycharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\users\\adam1\\documents\\uni ue\\terminatevelocity\\terminatevelocity\\intermediate\\build\\win64\\unrealeditor\\inc\\terminatevelocity\\mycharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

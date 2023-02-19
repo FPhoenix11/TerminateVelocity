@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OnlineSubsystemSteam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Intermediate\Build\Win64\TerminateVelocityEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.cpp.obj"
+"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\Module.OnlineSubsystemSteam.gen.cpp.obj"
+"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\Default.rc2.res"
+/OUT:"C:\Users\adam1\Documents\Uni UE\TerminateVelocity\TerminateVelocity\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UnrealEditor\Development\OnlineSubsystemSteam\UnrealEditor-OnlineSubsystemSteam.lib"

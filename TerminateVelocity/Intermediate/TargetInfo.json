@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "TerminateVelocity",
-			"Path": "C:\\Slugwork\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocity.Target.cs",
+			"Path": "C:\\Users\\adam1\\Documents\\University\\Year 4\\Group Project\\Project Files\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocity.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "TerminateVelocityEditor",
-			"Path": "C:\\Slugwork\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocityEditor.Target.cs",
+			"Path": "C:\\Users\\adam1\\Documents\\University\\Year 4\\Group Project\\Project Files\\TerminateVelocity\\TerminateVelocity\\Source\\TerminateVelocityEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
